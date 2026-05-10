@@ -60,14 +60,20 @@
 
 <br><br>
 
-> ⚠️ **IMPORTANTE**  
-> Este repositorio ha sido creado durante mis estudios, por lo que puede contener errores o no seguir todas las mejores prácticas de programación. ¡Utilízalo como apoyo pero contrasta siempre la información!
+> [!WARNING]  
+> Este repositorio ha sido creado durante mis estudios, por lo que puede contener errores o no seguir las mejores prácticas. Se recomienda contrastar la información y tener en cuenta que esta forma de programar podría no ser la esperada o recomendada por su profesor. 
 
-<br><br>
+<br>
 
-## 🌎 ¡Sígueme en mis redes y colaboremos!
+Si te ha gustado el material, te agradecería mucho que le dieras una estrella ⭐.
 
-Si te interesa el contenido que comparto, te invito a seguirme en mis redes para estar al tanto de las últimas actualizaciones, proyectos y más.
+<br>
+
+## 🚀 ¡Sígueme en mis redes y colaboremos para mejorar el contenido!
+
+Si te interesa el contenido que comparto, te invito a seguirme en mis redes para estar al tanto de las últimas actualizaciones, proyectos y más. 
+
+Además, si tienes ideas, sugerencias o deseas colaborar para mejorar el contenido, ¡estoy abierto a propuestas!
 
 <p align="left">
   <a href="https://enriquebdl.taplink.ws/" target="_blank">
@@ -77,3 +83,4 @@ Si te interesa el contenido que comparto, te invito a seguirme en mis redes para
          width="60" />
   </a>
 </p>
+
