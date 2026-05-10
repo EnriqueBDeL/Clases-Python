@@ -36,6 +36,26 @@
     <button>[Herencia y Más OOP]</button>
   </a>
   <br>
+  Clase Python 8
+  <a href="https://github.com/EnriqueBDeL/Clases-Python/blob/main/Clase%208.py" target="_blank">
+    <button>[POO avanzada y objetos]</button>
+  </a>
+  <br>
+  Clase Python 9
+  <a href="https://github.com/EnriqueBDeL/Clases-Python/blob/main/Clase%209.py" target="_blank">
+    <button>[Herencia y Polimorfismo]</button>
+  </a>
+  <br>
+  Clase Python 10
+  <a href="https://github.com/EnriqueBDeL/Clases-Python/blob/main/Clase%2010.py" target="_blank">
+    <button>[Excepciones]</button>
+  </a>
+  <br>
+  Clase Python 11
+  <a href="https://github.com/EnriqueBDeL/Clases-Python/blob/main/Clase%2011.py" target="_blank">
+    <button>[Archivos .txt]</button>
+  </a>
+  <br>
 </div>
 
 <br><br>
