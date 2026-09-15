@@ -56,6 +56,16 @@
     <button>[Archivos .txt]</button>
   </a>
   <br>
+    Clase Python 12
+  <a href="https://github.com/EnriqueBDeL/Clases-Python/blob/main/Clase%2012.py" target="_blank">
+    <button>[Librerías]</button>
+  </a>
+  <br>
+  Clase Python 13
+  <a href="https://github.com/EnriqueBDeL/Clases-Python/blob/main/Clase%2013.py" target="_blank">
+    <button>[Librerías Externas]</button>
+  </a>
+  <br>
 </div>
 
 <br><br>
